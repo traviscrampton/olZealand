@@ -23,6 +23,22 @@ ul{
   list-style: none;
 }
 
-li {
-  width: 100px;
+
+.jumbotron p{
+  font-size: 20px;
+}
+.jumbotron{
+  border-style: solid;
+  border-width: 1px;
+}
+body{
+  background-color: lightgray;
+}
+
+.oversizer img{
+  height: 150px;
+  width: 200px;
+  float: right;
+  border-style: solid;
+  border-width: 2.5px;
 }
